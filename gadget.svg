@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64">
+  <rect width="64" height="64" fill="#00ff00"/>
+  <image href="https://example.com/robots.txt" width="64" height="64"/>
+  <image xlink:href="https://example.com/robots.txt" width="64" height="64"/>
+</svg>
